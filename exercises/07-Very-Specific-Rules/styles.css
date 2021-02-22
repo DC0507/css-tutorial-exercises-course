@@ -1,5 +1,15 @@
 /** Insert your code here **/
+tr:nth-child(2n + 1) {
+	background: yellow;
+}
 
+.fillitgreen {
+	background: green;
+}
+
+.makeitred {
+	color: red;
+}
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
 only add lines of code on top of this lines
